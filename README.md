@@ -18,21 +18,22 @@ I enjoy building intuitive apps, solving challenging problems, and contributing 
 - Developed frontend components with React & Material UI  
 - Implemented secure LAN with AES-256, TLS, and audit logging  
 - Integrated fingerprint, facial recognition, and OCR  
+- Repo is private, sensitive data
 
 **VaultPass - Password Manager** | Mobile App Developer  
 - Cross-platform Flutter app with MVC framework  
 - Features: Firebase Authentication, PIN lock, clipboard manager  
-- [Demo Repo]()  
+- Team project; repository (https://github.com/Alerianatics/vaultpass)
 
 **Bitebook - Digital Recipe Book** | Full-Stack Developer  
 - Web app with JavaScript, PHP, MySQL  
 - Features: User authentication, recipe filtering  
-- [Repo]()
+- [Repo](https://github.com/sheweemae/bitebook)
 
 **Automatic Medicine Dispenser** | Hardware Designer & Programmer  
 - 8086 Assembly microprocessor control  
 - Simulated multiple dispensers with keypad and LCD  
-- [Repo]()
+- [Repo](https://github.com/sheweemae/automatic-medicine-dispenser)
 
 ---
 
