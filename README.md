@@ -1,5 +1,5 @@
 # Hi, I'm Jeuel Mae Silvio 👋
-I'm a Computer Engineering student and Full-Stack Developer passionate about web and mobile development.  
+I'm a Computer Engineering student studying at University of San Carlos passionate about web and mobile development.  
 I enjoy building intuitive apps, solving challenging problems, and contributing to meaningful projects.
 
 ---
