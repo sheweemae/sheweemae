@@ -6,7 +6,7 @@ I enjoy building intuitive apps, solving challenging problems, and contributing 
 
 ## 💻 Languages, Frameworks & Tools
 
-**Languages & Frameworks:** JavaScript, React.js, Node.js, Express, PHP, SQL (MySQL, PostgreSQL), NoSQL (Firebase), Flutter, REST APIs, HTML/CSS  
+**Languages & Frameworks:** JavaScript, Java, C, C#, React.js, Node.js, Express, PHP, SQL (MySQL, PostgreSQL), NoSQL (Firebase), Flutter, REST APIs, HTML/CSS  
 **Tools & Platforms:** Git/GitHub, Firebase, Figma, Postman, Proteus, VS Code, Google Workspace  
 **Skills:** Problem-solving, Time management, Collaborative leadership, Learning agility, Resilience  
 
